@@ -7,7 +7,4 @@ country <- function(x){
   map("world", x)
 }
 
-capital <- function(x){
-  map.cities(country = x, capitals = 2)
-}
-
+add("china")
