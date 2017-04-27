@@ -1,0 +1,10 @@
+Package: Week4
+Type: Package
+Title: calculate leap year
+Version: 0.1.0
+Author: Tony
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: calculate whether it is a leap year
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
